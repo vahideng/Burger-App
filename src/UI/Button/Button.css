@@ -1,0 +1,10 @@
+.Button {
+
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    position:relative;
+    color: red;
+    cursor:pointer;
+    text-align: center;
+   margin: auto;
+}
